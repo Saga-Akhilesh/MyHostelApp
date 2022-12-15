@@ -14,3 +14,7 @@ Description:
 After logging into the MyHostelApp,it will have 4 options - Mess, Complaints,Resource and Council. In Mess option, it has menu and feedback tabs.In menu tab - it will show on the list of food items which are to be served for breakfast,lunch,snack and dinner and it will have Floating Action Button at the bottom of  page, which can be used to check menu for other days also. In FeedBack tab, you can add feedback about the food served in breakfast or lunch or dinner everyday.In Complaints option - We have two options: (1)Register Complaint and (2)Status. In this, we can submit a complaint and check its status in the status option.In the Resource option - 4 options will be there - CSE , EE, Mechanical and Common - Students can add their Courses of that Semester according to their departments.In Council option - 9 Options will be there - Hostel Warden General Secretary,Sports Secretary, Hostel Secretary, Mess Committee, Junior Hostel Secretary,Junior Sports Secretary , Cultural Secretary, Maintenance.
 
 Students can also update their profile and also their password..
+FireBase:
+![image](https://user-images.githubusercontent.com/98794660/207927899-9132d2c2-0216-4408-97af-3641bfcedab7.png)
+![image](https://user-images.githubusercontent.com/98794660/207927985-206ffef9-4366-4f3e-9df5-49e3a1cdd621.png)
+
